@@ -1,5 +1,5 @@
 {
-  "name": "mixpanel",
+  "name": "@jlongster/mixpanel",
   "description": "A simple server-side API for mixpanel",
   "keywords": [
     "mixpanel",
@@ -32,6 +32,5 @@
     "sinon": "^7.1.1"
   },
   "dependencies": {
-    "https-proxy-agent": "5.0.0"
   }
 }
